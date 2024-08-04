@@ -1,4 +1,4 @@
-# Data Science/ Data analysis Repository
+# Data Science Repository
 
 This repository showcases my ongoing journey in the field of Data Science and analysis. Here, you will find a collection of projects that I have undertaken to further my understanding of various data science concepts and techniques. Whether you're a fellow data science enthusiast or just interested in learning more about the field, I hope you find these projects informative and engaging.
 
